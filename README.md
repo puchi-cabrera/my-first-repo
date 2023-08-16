@@ -1,2 +1,4 @@
 # my-first-repo
-test
+test 2
+
+This is a new line of code
